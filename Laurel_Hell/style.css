@@ -1,0 +1,32 @@
+h1 { font-family: 'Rock Salt', 'cursive';
+     font-size: 30px;
+     line-height: 40px;
+     margin: 0px auto 0px; }
+
+body, p { font-family: 'Inter', sans-serif;
+          font-size: 14px;
+          line-height: 20px;
+          text-align: center; }
+
+a { font-size: 20px;
+    line-height: 30px;
+    font-weight: bold; }
+
+a:hover { opacity: 0.5; }
+ 
+#LH { width:480px;
+      margin: auto; }
+
+span, a { font-family: 'Fondamento', 'cursive'; }
+
+h1, a { color:#000000 }
+
+span { color:#DC0000 }
+
+p, body { color:#850000 } 
+
+body { background-color: #FFF6C3; }
+
+a + a { margin-left: 40px; }
+
+
