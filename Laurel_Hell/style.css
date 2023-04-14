@@ -26,7 +26,7 @@ a:hover { opacity: 0.5; }
        text-align: right;
        flex-direction:column; }
 
-#LH { width:580px;
+#LH { width:600px;
       margin: auto; }
 
 span, a { font-family: 'Fondamento', 'cursive'; }
