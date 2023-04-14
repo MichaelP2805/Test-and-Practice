@@ -1,7 +1,7 @@
 h1 { font-family: 'Rock Salt', 'cursive';
      font-size: 30px;
      line-height: 40px;
-     margin: 0px auto 0px; }
+     margin: 20px auto 0px; }
 
 body { font-family: 'Inter', sans-serif;
        text-align: center;
@@ -13,18 +13,18 @@ a { font-size: 20px;
     font-weight: bold; }
 
 a:hover { opacity: 0.5; }
-   
-#ul1 { display: flex;
-        list-style: none;
-        text-align: left;
-        flex-direction: column; }
 
-#ul2 { display: flex;
-        list-style: none;
-        text-align: right;
-        flex-direction:column; }
+#ul1, #ul2 { display:inline-flex;
+             text-decoration: none;
+             justify-content:start; }
 
-#ul1, #ul2 { justify-content:start; }
+#ul1 { list-style: none;
+       text-align: left;
+       flex-direction: column; }
+
+#ul2 { list-style: none;
+       text-align: right;
+       flex-direction:column; }
 
 #LH { width:600px;
       margin: auto; }
