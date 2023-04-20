@@ -1,40 +1,33 @@
-h1 { 
-    font-family: 'Rock Salt', 'cursive';
-    font-size: 30px;
-    line-height: 40px;
-    margin: 20px auto 0px; }
+h1 { font-family: 'Rock Salt', 'cursive';
+     font-size: 30px;
+     line-height: 40px;
+     margin: 20px auto 0px; }
 
-body { 
-     font-family: 'Inter', sans-serif;
-     text-align: center;
-     font-size: 14px;
-     line-height: 20px; }
+body { font-family: 'Inter', sans-serif;
+       text-align: center;
+       font-size: 14px;
+       line-height: 20px; }
 
-a { 
-  font-size: 20px;
-  line-height: 30px;
-  font-weight: bold; }
+a { font-size: 20px;
+    line-height: 30px;
+    font-weight: bold; }
 
 a:hover { opacity: 0.5; }
 
-#ul1, #ul2 { 
-     display:inline-flex;
-     text-decoration: none;
-     justify-content:start; }
+#ul1, #ul2 { display:inline-flex;
+             text-decoration: none;
+             justify-content:start; }
 
-#ul1 { 
-     list-style: none;
-     text-align: left;
-     flex-direction: column; }
+#ul1 { list-style: none;
+       text-align: left;
+       flex-direction: column; }
 
-#ul2 { 
-     list-style: none;
-     text-align: right;
-     flex-direction:column; }
+#ul2 { list-style: none;
+       text-align: right;
+       flex-direction:column; }
 
-#LH { 
-    width:600px;
-    margin: auto; }
+#LH { width:600px;
+      margin: auto; }
 
 span, a { font-family: 'Fondamento', 'cursive'; }
 
