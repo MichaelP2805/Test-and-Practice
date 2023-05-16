@@ -10,9 +10,9 @@ body { font-family: 'Inter', sans-serif;
        line-height: 20px; }
 
 
-a { font-size: 20px;
-    line-height: 30px;
-    font-weight: bold; }
+a {font-size: 20px;
+   line-height: 30px;
+   font-weight: bold;}
 
 
 a:hover { opacity: 0.5; }
