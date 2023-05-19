@@ -23,9 +23,9 @@ a:hover { opacity: 0.5; }
              justify-content:start; }
 
 
-#ul1 { list-style: none;
-       text-align: left;
-       flex-direction: column; }
+#ul1 {list-style: none;
+      text-align: left;
+      flex-direction: column;}
 
 
 #ul2 { list-style: none;
