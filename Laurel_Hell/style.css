@@ -3,53 +3,40 @@ h1 {font-family: 'Rock Salt', 'cursive';
     line-height: 40px;
     margin: 20px auto 0px;}
 
-
 body { font-family: 'Inter', sans-serif;
        text-align: center;
        font-size: 14px;
        line-height: 20px; }
 
-
 a {font-size: 20px;
    line-height: 30px;
    font-weight: bold;}
 
-
 a:hover { opacity: 0.5; }
-
 
 #ul1, #ul2 { display:inline-flex;
              text-decoration: none;
              justify-content:start; }
 
-
 #ul1 {list-style: none;
       text-align: left;
       flex-direction: column;}
-
 
 #ul2 { list-style: none;
        text-align: right;
        flex-direction:column; }
 
-
 #LH { width:600px;
       margin: auto; }
 
-
 span, a { font-family: 'Fondamento', 'cursive'; }
-
 
 h1, a { color:#000000 }
 
-
 span { color:#DC0000 }
-
 
 #ul1, #ul2, body { color:#850000 } 
 
-
 body { background-color: #FFF6C3; }
-
 
 a + a { margin-left: 40px; }
