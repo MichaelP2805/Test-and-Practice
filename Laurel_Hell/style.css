@@ -1,10 +1,12 @@
 h1 {font-family: 'Rock Salt', 'cursive';
     font-size: 30px;
+    
     line-height: 40px;
     margin: 20px auto 0px;}
 
 body { font-family: 'Inter', sans-serif;
        text-align: center;
+      
        font-size: 14px;
        line-height: 20px; }
 
@@ -19,6 +21,7 @@ a:hover { opacity: 0.5; }
              justify-content:start; }
 
 #ul1 {list-style: none;
+      
       text-align: left;
       flex-direction: column;}
 
