@@ -2,7 +2,7 @@ h1 {font-family: 'Rock Salt', 'cursive';
     font-size: 30px;
     
     line-height: 40px;
-    margin: 21px auto 0px;}
+    margin: 20px auto 0px;}
 
 body { font-family: 'Inter', sans-serif;
        text-align: center;
@@ -27,7 +27,6 @@ a:hover { opacity: 0.5; }
       flex-direction: column;}
 
 #ul2 { list-style: none;
-      
        text-align: right;
        flex-direction:column; }
 
