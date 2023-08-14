@@ -1,0 +1,110 @@
+* { margin: 0; 
+    padding: 0;
+    box-sizing: border-box; }
+
+:root { --ff-heading: 'Inconsolata', monospace;
+        --ff-texting: 'Orbitron', sans-serif;
+
+        font-size: 62.5%; 
+        --fs-body: 1.6rem;
+        --fs-heading: 2.5rem;
+    
+        --bg-primary: #708090;
+        --fc-primary: #191970;
+
+        --bg-secondary: #191970;
+        --fc-secondary: #708090; }
+
+header { margin: 5rem 0 5rem;
+         font-family: var(--ff-heading);
+         font-weight: 800; 
+
+         font-size: var(--fs-heading);
+         color: var(--fc-primary); 
+
+         text-transform: uppercase;
+         text-align: center; 
+        
+         animation: topdown 700ms; }
+
+header span { font-size: 1.9rem; 
+              font-weight: 900;
+              letter-spacing: 3px;
+         
+              text-transform: none;
+         
+              line-height: 3.2rem;
+              margin-bottom: 1.7rem; }
+
+main { display: grid;
+       gap: 1.7rem;
+       padding-bottom: 5rem;
+      
+       animation: downtop 700ms 350ms backwards; }
+
+.card { position: relative;  }
+
+.card img { object-fit: cover; 
+            border-radius: 6px; 
+        
+            transform: 200ms; } 
+
+.card img:hover { transform: scale(1.1);
+                  opacity: 0.8; } 
+
+.card h2 { position:absolute;
+           bottom: 0.8rem; 
+           left: 1rem; 
+        
+           border-radius: 0.5rem;
+           background-color: var(--fc-secondary); 
+           opacity: 85%; 
+        
+           transition: all 200ms; } 
+
+h2:hover { transform: scale(1.2); } 
+
+a { text-decoration: none; 
+    color: var(--fc-primary); } 
+
+body { font-family: var(--ff-texting); 
+       
+       background-color: var(--bg-primary); 
+       color: var(--fc-primary); } 
+
+.page { max-width: 33rem; 
+        margin: 0 auto; } 
+
+@media (min-width: 700px) {
+
+:root{ --fs-heading: 5.6rem; }
+
+.page { max-width: 117rem; 
+        padding: 0 5rem; } } 
+
+@media (min-width: 930px) {    
+
+ main { grid-template-areas: "A A" 
+                             "B  C" 
+                             "D  E"; } 
+                        
+main div:nth-child(1) { grid-area: A; }  
+main div:nth-child(2) { grid-area: B; } 
+main div:nth-child(3) { grid-area: C; } 
+main div:nth-child(4) { grid-area: D; } 
+main div:nth-child(5) { grid-area: E; } } 
+
+img { width: 100%;
+      height: auto; } 
+
+@keyframes topdown { 0% { opacity: 0;
+                          transform: translateY(-15px); } 
+    
+                     100% { opacity: 1;
+                            transform: translateY(0); } } 
+        
+@keyframes downtop { 0% { opacity: 0; 
+                          transform: translateY(15px); }
+    
+                     100% { opacity: 1;
+                            transform: translateY(0); } }
