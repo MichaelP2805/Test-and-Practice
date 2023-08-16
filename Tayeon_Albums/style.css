@@ -6,6 +6,7 @@
         --ff-texting: 'Orbitron', sans-serif;
 
         font-size: 62.5%; 
+       
         --fs-body: 1.6rem;
         --fs-heading: 2.5rem;
     
@@ -16,6 +17,7 @@
         --fc-secondary: #708090; }
 
 header { margin: 5rem 0 5rem;
+        
          font-family: var(--ff-heading);
          font-weight: 800; 
 
@@ -32,8 +34,8 @@ header span { font-size: 1.9rem;
               letter-spacing: 3px;
          
               text-transform: none;
-         
               line-height: 3.2rem;
+             
               margin-bottom: 1.7rem; }
 
 main { display: grid;
