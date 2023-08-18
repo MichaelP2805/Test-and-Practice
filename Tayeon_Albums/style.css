@@ -17,7 +17,6 @@
         --fc-secondary: #708090; }
 
 header { margin: 5rem 0 5rem;
-        
          font-family: var(--ff-heading);
          font-weight: 800; 
 
@@ -31,8 +30,8 @@ header { margin: 5rem 0 5rem;
 
 header span { font-size: 1.9rem; 
               font-weight: 900;
+             
               letter-spacing: 3px;
-         
               text-transform: none;
               line-height: 3.2rem;
              
