@@ -6,12 +6,11 @@
         --ff-texting: 'Orbitron', sans-serif;
 
         font-size: 62.5%; 
+       
         --fs-body: 1.6rem;
         --fs-heading: 2.5rem;
-    
         --bg-primary: #708090;
         --fc-primary: #191970;
-
         --bg-secondary: #191970;
         --fc-secondary: #708090; }
 
@@ -27,13 +26,13 @@ header { margin: 5rem 0 5rem;
         
          animation: topdown 700ms; }
 
-header span { font-size: 1.9rem; 
+header span { font-size: 1.8rem; 
               font-weight: 900;
+             
               letter-spacing: 3px;
-         
               text-transform: none;
-         
               line-height: 3.2rem;
+             
               margin-bottom: 1.7rem; }
 
 main { display: grid;
@@ -46,7 +45,6 @@ main { display: grid;
 
 .card img { object-fit: cover; 
             border-radius: 6px; 
-        
             transform: 200ms; } 
 
 .card img:hover { transform: scale(1.1);
