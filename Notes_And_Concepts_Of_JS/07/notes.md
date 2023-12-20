@@ -6,7 +6,7 @@ Perguntas a serem feitas:
 2. Quais as variáveis?
 3. Qual o caminho ideal?
 4. Qual(is) o(s) caminho(s) alternativo(s) 
-5. Quais tratamentos de dados preciso fazer? (estrutura de dados, funções) 
+5. Quais tratamentos de dados preciso fazer? (estrutura de dados e funções) 
 6. Qual é a saída, ou quais os dados de saída esperada? (outputs) 
 
 
