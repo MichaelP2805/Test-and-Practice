@@ -1,6 +1,6 @@
 Boas práticas na escrita de variáveis:
 
-- Em inglês
+- Em inglês,
 - Sem espaços ou acentuações especiais no nome 
 - Não pode iniciar com número 
 - camelCase 
