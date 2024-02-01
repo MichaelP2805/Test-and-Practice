@@ -1,8 +1,8 @@
-# Fluxos de aplicação 
+# Fluxos de aplicação:
 
 - Caminhos lógicos baseado em algum dado ou informação 
 
-# Boas práticas na programação 
+# Boas práticas na programação:
 
 - Não repetir código 
 

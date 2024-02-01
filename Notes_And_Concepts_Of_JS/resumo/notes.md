@@ -1,5 +1,5 @@
-# Sintaxe e boas práticas 
- * ponto e vírgula é facultativo 
+# Sintaxe e boas práticas:
+ * ponto e vírgula é facultativo (dependendo do contexto)
   - const myConst = "constante"
 
  * escrever com camelCase
