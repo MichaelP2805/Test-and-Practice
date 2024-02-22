@@ -1,4 +1,4 @@
-# Melhorar a lógica de programação 
+# Melhorar a lógica de programação:
 
 - Perguntas corretas
 - Entender o problema 

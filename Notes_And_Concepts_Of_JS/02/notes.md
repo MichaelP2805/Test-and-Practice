@@ -1,4 +1,4 @@
-Boas práticas na escrita de variáveis:
+Boas práticas na escrita de variáveis
 
 - Em inglês,
 - Sem espaços ou acentuações especiais no nome 
