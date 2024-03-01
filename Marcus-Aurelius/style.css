@@ -1,0 +1,32 @@
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+
+#main { font-family: "Kode Mono", monospace;
+        font-style: normal;;
+        
+        font-size: 26px;
+        color: #5384da;
+
+        padding-top: 20px;
+        padding-bottom: 20px; } 
+
+#footer { font-family: 'Kdam Thmor';
+          font-style: normal;
+
+          font-size: 20px;
+          color: #9290C3; 
+        
+          padding-top: 10px; }
+
+#footer p{ font-size: 18px;
+           margin-bottom: 0px;
+           margin-right: 0px; } 
+
+#footer p span{ font-weight: bold; }
+
+body { background: rgb(7,15,43);
+    background: radial-gradient(circle, rgba(7,15,43,1) 0%, rgba(27,26,85,1) 35%, rgba(83,92,145,1) 100%);
+       text-align: center; } 
+
+img { border-radius: 5px; } 
