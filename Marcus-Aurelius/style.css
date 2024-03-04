@@ -26,7 +26,7 @@
 #footer p span{ font-weight: bold; }
 
 body { background: rgb(7,15,43);
-    background: radial-gradient(circle, rgba(7,15,43,1) 0%, rgba(27,26,85,1) 35%, rgba(83,92,145,1) 100%);
+       background: radial-gradient(circle, rgba(7,15,43,1) 0%, rgba(27,26,85,1) 35%, rgba(83,92,145,1) 100%);
        text-align: center; } 
 
 img { border-radius: 5px; } 
