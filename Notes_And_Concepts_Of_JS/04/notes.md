@@ -1,4 +1,4 @@
-# Fluxos de aplicação
+# Fluxos de aplicação:
 
 - Caminhos lógicos baseado em algum dado ou informação 
 
