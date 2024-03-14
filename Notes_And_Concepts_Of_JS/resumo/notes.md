@@ -1,4 +1,4 @@
-# Sintaxe e boas práticas:
+# Sintaxe e boas práticas
  * ponto e vírgula é facultativo (dependendo do contexto)
   - const myConst = "constante"
 
