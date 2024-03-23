@@ -1,4 +1,4 @@
-Estrutura de dados:
+Estrutura de dados
 
 # Ferramentas de linguagem que abordaremos
 
